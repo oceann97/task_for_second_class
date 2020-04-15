@@ -1,10 +1,10 @@
 ﻿  task.cpp
-C:\Users\═рЄр\Desktop\IPS\task2\task2\task.cpp(20): warning #3947: "_Cilk_for" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
+C:\Users\═рЄр\Desktop\IPS\task2\task_for_second_class\task2\task.cpp(20): warning #3947: "_Cilk_for" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
     	cilk_for(long i = 0; i < size; ++i)
     	^
   
-C:\Users\═рЄр\Desktop\IPS\task2\task2\task.cpp(50): warning #3946: "_Cilk_spawn" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
+C:\Users\═рЄр\Desktop\IPS\task2\task_for_second_class\task2\task.cpp(50): warning #3946: "_Cilk_spawn" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
     		cilk_spawn ParallelSort(begin, middle);
     		^
   
-  task.vcxproj -> C:\Users\Ната\Desktop\IPS\task2\task2\Release\Task.exe
+  task.vcxproj -> C:\Users\Ната\Desktop\IPS\task2\task_for_second_class\task2\Release\Task.exe
